@@ -1,0 +1,16 @@
+{
+  "name": "dom-copy-helper",
+  "version": "1.0.0",
+  "description": "Helper to copy to clipboard from a web page.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "copy"
+  ],
+  "author": "jimmymos",
+  "license": "ISC"
+}
